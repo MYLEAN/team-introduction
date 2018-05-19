@@ -1,0 +1,46 @@
+body{
+    background-color:gray;
+}
+#name{
+    color:white;
+    font-size: 60px;
+}
+#team{
+    float: left;
+    margin-left: 700px;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.486);
+}
+#li{
+    width: 600px;
+    height: 650px;
+    top:300px; 
+    position: absolute;
+    margin-left: 40px;
+}
+#zq{
+    position: absolute;
+    top: 300px;
+    margin-left: 690px;
+    width: 600px;
+    height: 650px;
+}
+#a{
+    margin-top: 10px;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.87);
+}
+#l{
+    width: 170;
+    height: 180;
+    border-radius: 100%;
+}
+#aa{
+    font-size: 40px;
+    color: white;
+}
+#z{
+    width: 210px;
+    height: 220px;
+    border-radius: 100%;
+}
